@@ -1,3 +1,6 @@
 [submodule "extensions/sd-civitai-browser-plus"]
 	path = extensions/sd-civitai-browser-plus
 	url = https://github.com/CongLeSolutionX/sd-civitai-browser-plus
+[submodule "extensions/sd-webui-lobe-theme"]
+	path = extensions/sd-webui-lobe-theme
+	url = https://github.com/CongLeSolutionX/sd-webui-lobe-theme.git
