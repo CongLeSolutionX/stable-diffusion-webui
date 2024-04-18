@@ -4,3 +4,6 @@
 [submodule "extensions/sd-webui-lobe-theme"]
 	path = extensions/sd-webui-lobe-theme
 	url = https://github.com/CongLeSolutionX/sd-webui-lobe-theme.git
+[submodule "extensions/sd-webui-controlnet"]
+	path = extensions/sd-webui-controlnet
+	url = https://github.com/CongLeSolutionX/sd-webui-controlnet.git
