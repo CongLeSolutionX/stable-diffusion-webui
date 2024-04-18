@@ -1,0 +1,3 @@
+[submodule "extensions/sd-civitai-browser-plus"]
+	path = extensions/sd-civitai-browser-plus
+	url = https://github.com/CongLeSolutionX/sd-civitai-browser-plus
