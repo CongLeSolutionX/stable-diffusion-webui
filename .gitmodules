@@ -10,3 +10,6 @@
 [submodule "extensions/sd-webui-bmab"]
 	path = extensions/sd-webui-bmab
 	url = https://github.com/CongLeSolutionX/sd-webui-bmab.git
+[submodule "extensions/sd-adetailer"]
+	path = extensions/sd-adetailer
+	url = https://github.com/Bing-su/adetailer.git
